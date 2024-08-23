@@ -1,4 +1,4 @@
 # 仿指尖联盟项目（Vue3+Vite+Node.js+Vant4）
-感谢B站大佬iwenwiki提供的开源项目，给我提供了很多思路以及数据的接口
+灵感来源于B站大佬iwenwiki，提供了许多的思路以及数据的接口，顶礼膜拜！货不多说直接上图吧。
 
 ![image](https://github.com/ZAOM5423/Practice/blob/master/new-project/5ebae1832702b14ddf571469b14d59b.png)
